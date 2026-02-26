@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compilados
+out/
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+#Librerias
+lib/
