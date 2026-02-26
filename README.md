@@ -32,19 +32,7 @@ Construir una aplicación sólida y mantenible que demuestre:
 
 ## Arquitectura
 
-El proyecto sigue una arquitectura en capas claramente definida:
-src/
-├── Main/ → Punto de entrada de la aplicación
-├── UI/ → Interfaz gráfica (Swing)
-├── Service/ → Lógica de negocio
-├── DAO/
-│ ├── interfaces/ → Contratos DAO
-│ └── mysql/ → Implementaciones MySQL
-├── Modelo/ → Entidades del dominio
-├── Exceptions/ → Excepciones de negocio
-└── Config/ → Configuración de base de datos
-
-
+El proyecto sigue una arquitectura en capas.
 Cada capa cumple una única responsabilidad y se comunica con las demás mediante contratos bien definidos.
 
 ---
