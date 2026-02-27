@@ -64,7 +64,7 @@ db/
 - MySQL 
 
 ### Ejecución 
-- Ejecutar la clase `Main/App.java`
+- Ejecutar la clase principal `Main/App.java`
 
 
 ## Project
