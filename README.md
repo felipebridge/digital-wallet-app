@@ -80,4 +80,4 @@ db/
 
 ## Estado del proyecto
 
-Proyecto finalizado
+Proyecto Finalizado.
