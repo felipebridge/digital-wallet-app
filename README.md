@@ -1,4 +1,4 @@
-# Digital Wallet App – Java POO
+# Digital Wallet App – Java Project
 
 Aplicación de **billetera digital** desarrollada en **Java**, utilizando **Programación Orientada a Objetos** y **arquitectura en capas**, con persistencia de datos en **MySQL** y una interfaz gráfica construida con **Swing**.
 
